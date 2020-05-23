@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/domyjob/static/css/main.9ba1e469.chunk.css",
+    "main.js": "/domyjob/static/js/main.c86e4470.chunk.js",
+    "main.js.map": "/domyjob/static/js/main.c86e4470.chunk.js.map",
+    "runtime-main.js": "/domyjob/static/js/runtime-main.8cae4069.js",
+    "runtime-main.js.map": "/domyjob/static/js/runtime-main.8cae4069.js.map",
+    "static/css/2.de424728.chunk.css": "/domyjob/static/css/2.de424728.chunk.css",
+    "static/js/2.57d8aa89.chunk.js": "/domyjob/static/js/2.57d8aa89.chunk.js",
+    "static/js/2.57d8aa89.chunk.js.map": "/domyjob/static/js/2.57d8aa89.chunk.js.map",
+    "index.html": "/domyjob/index.html",
+    "precache-manifest.73538c476c8aa0162507f29dea913dd6.js": "/domyjob/precache-manifest.73538c476c8aa0162507f29dea913dd6.js",
+    "service-worker.js": "/domyjob/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/domyjob/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9ba1e469.chunk.css.map": "/domyjob/static/css/main.9ba1e469.chunk.css.map",
+    "static/js/2.57d8aa89.chunk.js.LICENSE.txt": "/domyjob/static/js/2.57d8aa89.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/domyjob/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cae4069.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.57d8aa89.chunk.js",
+    "static/css/main.9ba1e469.chunk.css",
+    "static/js/main.c86e4470.chunk.js"
+  ]
+}
