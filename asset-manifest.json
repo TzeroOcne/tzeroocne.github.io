@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68c78835.chunk.css",
+    "main.js": "/static/js/main.59e4c07d.chunk.js",
+    "main.js.map": "/static/js/main.59e4c07d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7a57718.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7a57718.js.map",
+    "static/css/2.9233ae65.chunk.css": "/static/css/2.9233ae65.chunk.css",
+    "static/js/2.86cb6d40.chunk.js": "/static/js/2.86cb6d40.chunk.js",
+    "static/js/2.86cb6d40.chunk.js.map": "/static/js/2.86cb6d40.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70739c08bf08275fd8a5af2ca1c0983a.js": "/precache-manifest.70739c08bf08275fd8a5af2ca1c0983a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.68c78835.chunk.css.map": "/static/css/main.68c78835.chunk.css.map",
+    "static/js/2.86cb6d40.chunk.js.LICENSE.txt": "/static/js/2.86cb6d40.chunk.js.LICENSE.txt",
+    "static/media/banner-monokai-tv-blank.png": "/static/media/banner-monokai-tv-blank.e15b364d.png",
+    "static/media/banner-monokai.png": "/static/media/banner-monokai.a61493fe.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a57718.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.86cb6d40.chunk.js",
+    "static/css/main.68c78835.chunk.css",
+    "static/js/main.59e4c07d.chunk.js"
+  ]
+}
